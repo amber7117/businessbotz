@@ -12,5 +12,7 @@
     "success_remove": "✅ 成功删除",
     "auto_reply_empty": "自动回复列表为空！",
     "remove_instruction": "要从自动回复中删除项目，请复制并粘贴上述其中一项",
-    "list_auto_replies_header": "这是所有自动回复的列表。"
+    "list_auto_replies_header": "这是所有自动回复的列表。"，
+    "enable_ai_reply": "启用AI回复",
+    "ai_reply_instructions": "请发送消息，AI将回复您。" 
 }
