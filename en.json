@@ -12,5 +12,7 @@
     "success_remove": "✅ Successfully removed",
     "auto_reply_empty": "auto-reply list is empty!",
     "remove_instruction": "To remove an item from the auto-reply, copy and paste one of the above",
-    "list_auto_replies_header": "This is the list of all auto-replies."
+    "list_auto_replies_header": "This is the list of all auto-replies.",
+    "enable_ai_reply": "Enable AI Reply",
+    "ai_reply_instructions": "Please send a message, and AI will reply to you."
 }
