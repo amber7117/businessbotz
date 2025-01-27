@@ -1,0 +1,16 @@
+{
+    "welcome": "您好，欢迎使用商业账户管理机器人！🤖\n\n要使用机器人，只需转到您的个人资料中的电报业务部分，进入聊天机器人部分并输入机器人用户名。💼\n\n注意：仅限高级用户使用此选项。ℹ️",
+    "select_language": "请选择您的语言",
+    "add_auto_reply": "添加自动回复 ✉️",
+    "remove_auto_reply": "删除自动回复 🚫",
+    "list_auto_replies": "列出所有自动回复 📋",
+    "back": "返回 🔙",
+    "done": "完成",
+    "success_create": "✅ 成功创建。\n\n发送您的内容以回答此文本（可以包括任何类型的内容，如：文本，照片，视频，gif，贴纸，语音等）",
+    "success_add": "✅ 答案已添加到您的文本中\n\n您可以提交更多内容或点击'完成！'",
+    "problem_content": "您发送的内容有问题，请发送其他内容",
+    "success_remove": "✅ 成功删除",
+    "auto_reply_empty": "自动回复列表为空！",
+    "remove_instruction": "要从自动回复中删除项目，请复制并粘贴上述其中一项",
+    "list_auto_replies_header": "这是所有自动回复的列表。"
+}

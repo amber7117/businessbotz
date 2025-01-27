@@ -1,0 +1,16 @@
+{
+    "welcome": "Hi welcome to Business Account Manager Bot! 🤖\n\nTo use the bot, just go to the telegram business section in your profile, enter the chatbot section and enter the bot username. 💼\n\nNote: Only premium users can use this option. ℹ️",
+    "select_language": "Please select your language",
+    "add_auto_reply": "Add auto reply ✉️",
+    "remove_auto_reply": "Remove auto reply 🚫",
+    "list_auto_replies": "List all auto replies 📋",
+    "back": "Back 🔙",
+    "done": "Done!",
+    "success_create": "✅ Successfully created.\n\nSend your content to answer this text (it can include any type of content such as: text, photo, video, gif, sticker, voice, etc.)",
+    "success_add": "✅ The answer has been added to your desired text\n\nYou can submit more content or click on 'Done!'",
+    "problem_content": "There was a problem with the content you sent, please send another content",
+    "success_remove": "✅ Successfully removed",
+    "auto_reply_empty": "auto-reply list is empty!",
+    "remove_instruction": "To remove an item from the auto-reply, copy and paste one of the above",
+    "list_auto_replies_header": "This is the list of all auto-replies."
+}
