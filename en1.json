@@ -17,5 +17,8 @@
   "enable_ai_reply": "Enable AI Auto Reply",
   "disable_ai_reply": "Disable AI Auto Reply",
   "ai_reply_enabled": "AI auto-reply has been enabled. The assistant will now respond to incoming messages automatically.",
-  "ai_reply_disabled": "AI auto-reply has been disabled. The assistant will no longer respond automatically."
+  "ai_reply_disabled": "AI auto-reply has been disabled. The assistant will no longer respond automatically.",
+  "language_selected_english": "You have selected English.",
+  "language_selected_chinese": "You have selected Chinese.",
+  "change_language": "Change Language"
 }
