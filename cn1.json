@@ -1,0 +1,21 @@
+{
+  "select_language": "请选择您的语言：",
+  "add_auto_reply": "添加自动回复",
+  "remove_auto_reply": "移除自动回复",
+  "list_auto_replies": "列出所有自动回复",
+  "add_auto_reply_instructions": "请输入您希望触发自动回复的消息：",
+  "remove_instruction": "输入您想从自动回复中移除的确切消息：",
+  "list_auto_replies_header": "以下是您所有的自动回复列表：",
+  "auto_reply_empty": "尚未添加任何自动回复。",
+  "success_create": "您的自动回复触发器已成功创建！",
+  "success_add": "内容已添加到自动回复触发器。",
+  "problem_content": "抱歉，我无法识别此内容。请重试。",
+  "success_remove": "自动回复已成功移除。",
+  "welcome": "欢迎！请选择以下选项：",
+  "back": "返回",
+  "done": "完成",
+  "enable_ai_reply": "启用 AI 自动回复",
+  "disable_ai_reply": "禁用 AI 自动回复",
+  "ai_reply_enabled": "AI 自动回复已启用。助理现在会自动回复收到的消息。",
+  "ai_reply_disabled": "AI 自动回复已禁用。助理将不再自动回复消息。"
+}
